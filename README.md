@@ -1,4 +1,4 @@
-## Hi there 👋 it's great yo see you!!!
+## Hi there 👋 it's great to see you!!!
 I'm Franchesco Gallegos, a software engineering student at Escuela Politecnica Nacional in Ecuador. My dream is becoming a MlOps professional at Silicon Valley and entrepeneur in the software industry. Not only I love inventing new useful software but I also enjoy working out and eating healthy. I like managing a team and so making new friends. Please if you would like to collab, do not hesitate to reach out. 
 
 - 🔭 I’m currently working on my machine learning skills. 
